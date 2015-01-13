@@ -1,4 +1,4 @@
-package com.yonghee.exercise.behaviorparam;
+package com.yonghee.exercise.predicate;
 
 import java.util.ArrayList;
 import java.util.List;
