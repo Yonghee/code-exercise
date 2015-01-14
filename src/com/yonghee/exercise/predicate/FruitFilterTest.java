@@ -18,8 +18,6 @@ public class FruitFilterTest {
         List<Apple> result = FruitFilter.filter(apples, (Apple apple)->"red".equals(apple.getColor()));
 
         assertEquals(1,result.size());
-
-
     }
 }
 
