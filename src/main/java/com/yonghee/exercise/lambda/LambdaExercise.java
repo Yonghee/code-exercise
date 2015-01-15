@@ -43,5 +43,8 @@ public class LambdaExercise {
 
       System.out.println(userList);
 
+      Comparator<User> userComparator = (User u1, User u2) -> u1.compareTo(u2);
+      userList.sort(userComparator);
+      System.out.println(userList);
    }
 }
