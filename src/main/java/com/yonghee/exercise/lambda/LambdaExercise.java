@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Created by yhlee on 15. 1. 15..
  */
-public class BeforeLambds {
+public class LambdaExercise {
 
    public static void main(String[] args) {
 
